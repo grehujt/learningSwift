@@ -1,3 +1,5 @@
 # learningSwift
 
-## env: Xcode 7 & swift 2.0
+## env
+- Xcode 7
+- swift 2.0
