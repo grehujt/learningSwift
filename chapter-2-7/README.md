@@ -1,12 +1,14 @@
 ### sumup key points
-1. usages of UIImage
-2. usages of UIImageView
-3. creating border for UIImageView
-4. scale UIImage to fit screen
-5. make round corner effect
-6. make shadow effect
-> 7. basic usage of CAGradientLayer
-> 8. make gradient effect
+* usages of UIImage
+* usages of UIImageView
+* creating border for UIImageView
+* scale UIImage to fit screen
+* make round corner effect
+* make shadow effect
+
+**new:**
+> * basic usage of CAGradientLayer
+> * make gradient effect
 
 ---
 
