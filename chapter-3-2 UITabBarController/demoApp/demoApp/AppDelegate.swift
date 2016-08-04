@@ -18,7 +18,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         
         let v1 = FirstViewController()
+        v1.tabBarItem = UITabBarItem(title: "item #1", image: UIImage(named: "p1")?.imageWithRenderingMode(.AlwaysOriginal), tag: 1)
         let v2 = SecondSubViewController()
+        v2.tabBarItem = UITabBarItem(title: "item #2", image: UIImage(named: "p2")?.imageWithRenderingMode(.AlwaysOriginal), tag: 2)
         
         let tabViewController = UITabBarController()
         tabViewController.viewControllers = [v1, v2]

@@ -14,8 +14,6 @@ class SecondSubViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        self.title = "Item #2"
-        self.tabBarItem.image = UIImage(named: "p2")?.imageWithRenderingMode(.AlwaysOriginal)
         self.view.backgroundColor = UIColor.purpleColor()
     }
 

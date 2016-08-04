@@ -14,8 +14,6 @@ class FirstViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        self.title = "Item #1"
-        self.tabBarItem.image = UIImage(named: "p1")?.imageWithRenderingMode(.AlwaysOriginal)
         self.view.backgroundColor = UIColor.brownColor()
     }
 
